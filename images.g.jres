@@ -1,0 +1,62 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAAAAz/wAAAAA8A8v/PAPAADw9CLCzw8AAAAvIiL8AAAA/yTyL8L/APBEIg/wIswP8EQiD/AizA8A/yTyLyL/AAAATyIi8gAAAPD0JCLPDwAA8A9P8vAPAAAAAE/0AAAAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Collectible_gear"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//DwAAAADwvbv8AAAAAN+7/8v/AAAA37v/u8wPAADfu7u7yw8AAN+7u7vLDwAA37v/u8sPAADfu/+7/wAAAPDd3f0AAAAAAP//DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Collectible_skull"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAADw/2ZmDwAAAB8RmZn2AADwEZmZmfYAAB//kZmZ9gAA/wAfmZn2AAAAAPAREQ8AAAAAAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Collectible_water"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAAAA/0RE/wAAAADfVVX0AAAA8F31X0UPAADwXQ/wRQ8AAPBdD/BFDwAA8F31X0UPAAAA31VV9AAAAAD/3d3/AAAAAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Collectible_cd"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AAAAAAADwiA8AAAAAAJ9m+AAAAAAAn2aGDwAAAACfZoYPAAAAAJ9m+AAAAAAA8JkPAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "points_blue"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAPAAAAAADwz/wPAAAAAPAkwg8AAAAATyIi/AAAAABPIiL8AAAAAPAkwg8AAAAA8E/0DwAAAAAA8A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "points_red"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAPCIiA8AAAAAf2Zm+AAAAAB/Zmb4AAAAAPB3dw8AAAAAAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "points_green"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAPAAAAAAAAL/IAAAAAAPBFJA8AAAAA8EUkDwAAAADwRSQPAAAAAPBFJA8AAAAAAF/1AAAAAAAA8A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "points_orange"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/AAAAAAAAz8wPAAAAAPCrqvwAAAAAv6qq/AAAAAC/qqr8AAAAAPCrqvwAAAAAAL+7DwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "points_purple"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAA/wAAAAAAAPCIDwAAAAAAn2b4AADw/wCfZoYPAM/MD59mhg/wq6r8n2b4AL+qqvzwmQ8Av6qq/AD/AADwq6r8AAAA/wC/uw8AAP/M//D/AAAATyL8AAAAAPAkIsIPAAAA8CQiwg8AAAAATyL8AAAAAAD/RP8AAAAAAAD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MenuPointsDisplay"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAADwAAAAAAAAD48PAAAAAPD3hg8AAAAAf2Zm+A8AAPBnZmaG//8A8Gdm9v9mZg8Af2YfEZmZ9gDw/xGZmZn2AAAf/5GZmfYA8P/1H5mZ9gDwXQ/wEREPAPBdD/D//wAA8F31X0UPAAAA31VV9AAAAAD/3d3/AAAAAAD//wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Collectible_tree"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
